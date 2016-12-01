@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MakeTabs</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="about_this_app">About this App</string>
+    <string name="rate_this_app">Rate this App</string>
+</resources>
